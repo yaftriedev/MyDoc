@@ -1,4 +1,4 @@
-# Consejos y Resumenes
+# Guía Rico
 
 ## Profesiones de los Millonarios
 

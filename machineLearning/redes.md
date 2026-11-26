@@ -1,17 +1,5 @@
 # Redes Neuronales
 
-<aside>
-
-**Fuentes:**
-
-- https://www.ibm.com/es-es/think/topics/neural-networks?utm_source=chatgpt.com
-- https://www.geeksforgeeks.org/deep-learning/layers-in-artificial-neural-networks-ann/
-- https://4geeks.com/es/lesson/introduccion-a-deep-learning
-- https://howaiworks.ai/glossary/layers
-- https://en.wikipedia.org/wiki/Layer_%28deep_learning%29
-- https://www.geeksforgeeks.org/deep-learning/keras-layers-api/
-</aside>
-
 ## Estructura básica de una red neuronal
 
 Una **red neuronal artificial** es un modelo de aprendizaje inspirado en el cerebro que se organiza en **capas de neuronas** conectadas entre sí. El objetivo es aprender una función que mapee entradas a salidas ajustando los **pesos** y **sesgos** de esas conexiones durante el entrenamiento.
@@ -77,3 +65,12 @@ Además de las tres partes básicas, existen **diferentes tipos de capas** que s
 | **Embedding / NLP** | `Embedding` | `Embedding`, `EmbeddingBag`  |
 | **Recurrentes / secuencias** | `SimpleRNN`, `LSTM`, `GRU` | `RNN`, `LSTM`, `GRU` |
 | **Normalización** | `BatchNormalization`, `LayerNormalization` | `BatchNorm1d/2d/3d`, `LayerNorm`, `GroupNorm`, `InstanceNorm` |
+
+## Fuentes
+
+- https://www.ibm.com/es-es/think/topics/neural-networks?utm_source=chatgpt.com
+- https://www.geeksforgeeks.org/deep-learning/layers-in-artificial-neural-networks-ann/
+- https://4geeks.com/es/lesson/introduccion-a-deep-learning
+- https://howaiworks.ai/glossary/layers
+- https://en.wikipedia.org/wiki/Layer_%28deep_learning%29
+- https://www.geeksforgeeks.org/deep-learning/keras-layers-api/

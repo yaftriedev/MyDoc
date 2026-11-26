@@ -1,5 +1,3 @@
-# Java (Tipos de Datos y POO)
-
 # Tipos de datos
 - **Primitivos**: Datos simples (números, caracteres, booleanos, etc.)
 - **No primitivos**: Objetos más complejos (clases, arreglos, Strings, etc.)
